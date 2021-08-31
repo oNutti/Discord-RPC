@@ -8,6 +8,6 @@
   "button1link": "https://youtube.com/",
   "button2link": "https://youtube.com/",
   "button2": "URL",
-  "clientid": "882253409946841129",
-  "clientSecret": "19_gFSzspaY-RsCoFGHL4kFZRloEK4ES"
+  "clientid": "clientId",
+  "clientSecret": "clientSecret"
 }
